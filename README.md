@@ -1,9 +1,4 @@
 ### Hi there, I'm Mzee👋
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=codebotmzee&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebotmzee&layout=compact" />
-
-<img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 <!--
 **CodeBotMzee/CodeBotMzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
