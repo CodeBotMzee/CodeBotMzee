@@ -3,7 +3,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebotmzee&layout=compact" />
 
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 <!--
 **CodeBotMzee/CodeBotMzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
